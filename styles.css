@@ -1,0 +1,44 @@
+html {
+			margin:0;
+			padding: 0;
+			background: url(images/legs.gif) no-repeat center center fixed;
+    		background-size: cover;
+
+		}
+
+
+		body {
+			width: 90%;
+			margin: 0 auto;
+			font-family: 'Alegreya Sans SC', Sans;
+			font-size: 1.5em;
+			font-weight: normal;
+			border-bottom: 10px solid paleturquoise;
+			background-color: lightgrey; opacity: 0.80;
+			text-align: center;
+
+
+			}
+
+		h1 {
+			margin: 1em 0 .4em;
+			text-align: center;
+			
+
+		}
+
+		p {
+			
+			line-height: 1.2;
+			text-align: center;
+			margin: 1em 0 1em;
+		}
+
+		a {
+			color: rgb(0,170,240);
+		}
+
+		a:hover {
+			color:gold;
+		}
+		
